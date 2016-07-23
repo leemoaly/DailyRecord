@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_backupdatabases"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/menu_backupdata"/>
+	<item android:id="@+id/action_addnewitem"
+	    android:orderInCategory="100"
+	    android:showAsAction="never"
+	    android:title="@string/menu_addnewitem"/>
+</menu>

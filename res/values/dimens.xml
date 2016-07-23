@@ -1,0 +1,14 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+	<dimen name="tvtimeinfo_title">30sp</dimen>
+	<dimen name="listviewitem_etcontent">50dp</dimen>
+	<dimen name="listviewitem_textsize">12sp</dimen>
+	<dimen name="keyboardheight">200dp</dimen>
+	<dimen name="keyboardwidth">100dp</dimen>
+	<dimen name="keyboardkeyheight">50dp</dimen>
+	<dimen name="btn_addrecord_width">80dp</dimen>
+	<dimen name="btn_addrecord_heigth">80dp</dimen>
+</resources>
